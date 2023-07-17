@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BrackeysWipe
+  m_Controller: {fileID: 9100000, guid: 483bf15d98fb699409293776fd1e6e8c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 68916ebd75f60064088343f2c3ea122e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0bebef8dae5b0d547978605c9e1e7063, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e6e7389dd73de34c97c699dc62d56f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4fb2dba284dece747a34bbb849ea110d, type: 2}
